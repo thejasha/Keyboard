@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": false,
     "hidden_netclasses": [
@@ -8,11 +8,7 @@
     ],
     "hidden_nets": [
       "",
-      "Net-(U1-XTAL2)",
       "GND",
-      "Net-(U1-XTAL1)",
-      "Net-(U1-UCap)",
-      "VCC",
       "/row 0",
       "Net-(D1-A)",
       "Net-(D2-A)",
@@ -21,10 +17,6 @@
       "Net-(D4-A)",
       "/col 0",
       "/col 1",
-      "Net-(U1-~{RESET})",
-      "Net-(U1-~{HWB{slash}PE2})",
-      "Net-(U1-D-)",
-      "Net-(U1-D+)",
       "unconnected-(U1-PB0{slash}SS-Pad8)",
       "unconnected-(U1-PD1{slash}INT1-Pad19)",
       "unconnected-(U1-ICP1{slash}PD4-Pad25)",
@@ -46,7 +38,8 @@
       "unconnected-(U1-PB4-Pad28)",
       "unconnected-(U1-T1{slash}PD6-Pad26)",
       "unconnected-(U1-PB1{slash}SCK-Pad9)",
-      "unconnected-(U1-PB3{slash}MISO-Pad11)"
+      "unconnected-(U1-PB3{slash}MISO-Pad11)",
+      "unconnected-(J2-ID-Pad4)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 2,
