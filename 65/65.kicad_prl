@@ -2,14 +2,17 @@
   "board": {
     "active_layer": 31,
     "active_layer_preset": "All Layers",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [
       "+5V",
       "Cols",
+      "Crystal",
       "Default",
       "GND",
+      "HWB",
       "Rows",
-      "USB"
+      "USB",
+      "Ucap"
     ],
     "hidden_nets": [
       "",
@@ -94,28 +97,32 @@
       "Net-(D64-A)",
       "Net-(D65-A)",
       "Net-(D66-A)",
-      "unconnected-(U2-PB6-Pad30)",
       "+5V",
-      "Net-(U2-UCAP)",
       "GND",
       "unconnected-(U2-PB7-Pad12)",
-      "Net-(U2-XTAL1)",
+      "/Xtal1",
       "unconnected-(U2-PE6-Pad1)",
-      "Net-(U2-XTAL2)",
-      "Net-(U2-~{HWB}{slash}PE2)",
+      "/Xtal2",
       "unconnected-(U2-AREF-Pad42)",
-      "Net-(U2-~{RESET})",
-      "unconnected-(U2-PB5-Pad29)",
+      "VCC",
       "/Row 3",
       "/Row 0",
       "/Row 4",
-      "unconnected-(U2-PF7-Pad36)",
-      "Net-(U2-D+)",
       "/Row 2",
       "/D+",
       "/Row 1",
       "/D-",
-      "Net-(U2-D-)"
+      "/D3+",
+      "Net-(J2-CC1)",
+      "Net-(J2-CC2)",
+      "/Reset",
+      "/D2+",
+      "/D2-",
+      "/HWB",
+      "/Ucap",
+      "unconnected-(U2-PB0-Pad8)",
+      "unconnected-(U2-PB1-Pad9)",
+      "unconnected-(U2-PD0-Pad18)"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 2,
@@ -177,7 +184,7 @@
       40
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "repo_password": "",
