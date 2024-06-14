@@ -10029,7 +10029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 330.2 364.49 0)
 			(effects
 				(font
@@ -10578,7 +10578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.25u_PCB"
 			(at 271.78 384.81 0)
 			(effects
 				(font
@@ -10646,7 +10646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 242.57 364.49 0)
 			(effects
 				(font
@@ -10846,7 +10846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 67.31 384.81 0)
 			(effects
 				(font
@@ -10980,7 +10980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 303.53 0)
 			(effects
 				(font
@@ -11224,7 +11224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 323.85 0)
 			(effects
 				(font
@@ -11625,7 +11625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_6.25u_PCB"
 			(at 184.15 384.81 0)
 			(effects
 				(font
@@ -11693,7 +11693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 67.31 344.17 0)
 			(effects
 				(font
@@ -11827,7 +11827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 359.41 303.53 0)
 			(effects
 				(font
@@ -11983,7 +11983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 67.31 364.49 0)
 			(effects
 				(font
@@ -12051,7 +12051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 67.31 303.53 0)
 			(effects
 				(font
@@ -12119,7 +12119,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 242.57 303.53 0)
 			(effects
 				(font
@@ -12187,7 +12187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 330.2 344.17 0)
 			(effects
 				(font
@@ -12431,7 +12431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 184.15 303.53 0)
 			(effects
 				(font
@@ -12587,7 +12587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.75u_PCB"
 			(at 38.1 344.17 0)
 			(effects
 				(font
@@ -12988,7 +12988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 359.41 344.17 0)
 			(effects
 				(font
@@ -13456,7 +13456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 359.41 323.85 0)
 			(effects
 				(font
@@ -13590,7 +13590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 300.99 303.53 0)
 			(effects
 				(font
@@ -14009,7 +14009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 184.15 323.85 0)
 			(effects
 				(font
@@ -14143,7 +14143,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_2.25u_PCB"
 			(at 388.62 344.17 0)
 			(effects
 				(font
@@ -14299,7 +14299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 242.57 344.17 0)
 			(effects
 				(font
@@ -14367,7 +14367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 300.99 323.85 0)
 			(effects
 				(font
@@ -14611,7 +14611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 213.36 303.53 0)
 			(effects
 				(font
@@ -15008,7 +15008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 388.62 323.85 0)
 			(effects
 				(font
@@ -15076,7 +15076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 344.17 0)
 			(effects
 				(font
@@ -15232,7 +15232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 67.31 323.85 0)
 			(effects
 				(font
@@ -15457,7 +15457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 125.73 303.53 0)
 			(effects
 				(font
@@ -15592,7 +15592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 388.62 303.53 0)
 			(effects
 				(font
@@ -15728,7 +15728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 388.62 364.49 0)
 			(effects
 				(font
@@ -15796,7 +15796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 388.62 384.81 0)
 			(effects
 				(font
@@ -15952,7 +15952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 330.2 323.85 0)
 			(effects
 				(font
@@ -16108,7 +16108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_2.25u_PCB"
 			(at 359.41 364.49 0)
 			(effects
 				(font
@@ -16176,7 +16176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 359.41 384.81 0)
 			(effects
 				(font
@@ -16793,7 +16793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.25u_PCB"
 			(at 330.2 384.81 0)
 			(effects
 				(font
@@ -16861,7 +16861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_2.25u_PCB"
 			(at 38.1 364.49 0)
 			(effects
 				(font
@@ -16995,7 +16995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 364.49 0)
 			(effects
 				(font
@@ -17221,7 +17221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 125.73 323.85 0)
 			(effects
 				(font
@@ -17623,7 +17623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 125.73 344.17 0)
 			(effects
 				(font
@@ -17691,7 +17691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.25u_PCB"
 			(at 96.52 384.81 0)
 			(effects
 				(font
@@ -17759,7 +17759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 303.53 0)
 			(effects
 				(font
@@ -17827,7 +17827,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.50u_PCB"
 			(at 38.1 323.85 0)
 			(effects
 				(font
@@ -17895,7 +17895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 300.99 364.49 0)
 			(effects
 				(font
@@ -18029,7 +18029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 300.99 344.17 0)
 			(effects
 				(font
@@ -18097,7 +18097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 323.85 0)
 			(effects
 				(font
@@ -18165,7 +18165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 344.17 0)
 			(effects
 				(font
@@ -18321,7 +18321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 344.17 0)
 			(effects
 				(font
@@ -18477,7 +18477,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 184.15 364.49 0)
 			(effects
 				(font
@@ -18633,7 +18633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 330.2 303.53 0)
 			(effects
 				(font
@@ -18927,7 +18927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.25u_PCB"
 			(at 300.99 384.81 0)
 			(effects
 				(font
@@ -19501,7 +19501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 213.36 344.17 0)
 			(effects
 				(font
@@ -19793,7 +19793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 154.94 323.85 0)
 			(effects
 				(font
@@ -19949,7 +19949,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 447.04 323.85 0)
 			(effects
 				(font
@@ -20260,7 +20260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 447.04 384.81 0)
 			(effects
 				(font
@@ -20416,7 +20416,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 447.04 303.53 0)
 			(effects
 				(font
@@ -20484,7 +20484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 125.73 364.49 0)
 			(effects
 				(font
@@ -20794,7 +20794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.50u_PCB"
 			(at 417.83 323.85 0)
 			(effects
 				(font
@@ -21038,7 +21038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.25u_PCB"
 			(at 38.1 384.81 0)
 			(effects
 				(font
@@ -21106,7 +21106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 38.1 303.53 0)
 			(effects
 				(font
@@ -21309,7 +21309,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 242.57 323.85 0)
 			(effects
 				(font
@@ -21553,7 +21553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 364.49 0)
 			(effects
 				(font
@@ -21621,7 +21621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 96.52 364.49 0)
 			(effects
 				(font
@@ -21777,7 +21777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 184.15 344.17 0)
 			(effects
 				(font
@@ -21845,7 +21845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 213.36 323.85 0)
 			(effects
 				(font
@@ -22142,7 +22142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 213.36 364.49 0)
 			(effects
 				(font
@@ -22209,7 +22209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 119.38 255.27 0)
 			(effects
 				(font
@@ -22317,7 +22317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_1.00u_PCB"
 			(at 271.78 303.53 0)
 			(effects
 				(font
@@ -22473,7 +22473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "Footprinty:SW_Cherry_MX_2.00u_PCB"
 			(at 417.83 303.53 0)
 			(effects
 				(font
