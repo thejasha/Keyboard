@@ -10116,7 +10116,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "/?"
 			(at 330.2 367.03 0)
 			(effects
 				(font
@@ -10143,6 +10143,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 330.2 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 330.2 364.49 0)
 			(effects
 				(font
@@ -10239,6 +10248,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 26.67 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e32e756b-0e24-491b-8922-b1265ed53aeb")
 		)
@@ -10327,6 +10345,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 260.35 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1755e571-de11-4fba-aff0-b178267ce055")
 		)
@@ -10391,6 +10418,15 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 148.59 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 148.59 255.27 0)
 			(effects
 				(font
@@ -10470,6 +10506,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 207.01 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 207.01 220.98 0)
 			(effects
 				(font
@@ -10558,6 +10603,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 289.56 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 289.56 309.88 0)
 			(effects
 				(font
@@ -10665,7 +10719,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "RAlt"
 			(at 271.78 387.35 0)
 			(effects
 				(font
@@ -10692,6 +10746,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 271.78 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 271.78 384.81 0)
 			(effects
 				(font
@@ -10733,7 +10796,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "M"
 			(at 242.57 367.03 0)
 			(effects
 				(font
@@ -10760,6 +10823,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 242.57 364.49 0)
 			(effects
 				(font
@@ -10933,7 +11005,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Windows"
 			(at 67.31 387.35 0)
 			(effects
 				(font
@@ -10960,6 +11032,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 67.31 384.81 0)
 			(effects
 				(font
@@ -11067,7 +11148,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "4$"
 			(at 154.94 306.07 0)
 			(effects
 				(font
@@ -11094,6 +11175,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 154.94 303.53 0)
 			(effects
 				(font
@@ -11190,6 +11280,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 201.93 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0804ec8c-3b90-486d-92a8-ba31ae858fc9")
 		)
@@ -11278,6 +11377,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 435.61 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a86d9e7-b6bf-481e-a72a-e7534a865af8")
 		)
@@ -11311,7 +11419,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "W"
 			(at 96.52 326.39 0)
 			(effects
 				(font
@@ -11338,6 +11446,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 96.52 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 96.52 323.85 0)
 			(effects
 				(font
@@ -11434,6 +11551,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 26.67 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67552da3-919a-4051-a787-0513db788b2f")
 		)
@@ -11495,6 +11621,15 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
+			(at 143.51 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 143.51 240.03 0)
 			(effects
 				(font
@@ -11591,6 +11726,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 347.98 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2f29149-91ee-4637-929f-0b402f403241")
 		)
@@ -11679,6 +11823,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 406.4 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "677789f5-f6fb-45b9-8877-debb79722212")
 		)
@@ -11712,7 +11865,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Space"
 			(at 184.15 387.35 0)
 			(effects
 				(font
@@ -11739,6 +11892,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 184.15 384.81 0)
 			(effects
 				(font
@@ -11780,7 +11942,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "A"
 			(at 67.31 346.71 0)
 			(effects
 				(font
@@ -11807,6 +11969,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 67.31 344.17 0)
 			(effects
 				(font
@@ -11914,7 +12085,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "-_"
 			(at 359.41 306.07 0)
 			(effects
 				(font
@@ -11941,6 +12112,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 359.41 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 359.41 303.53 0)
 			(effects
 				(font
@@ -12037,6 +12217,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 260.35 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29623ed4-436d-41f9-8d7c-edd34138ad7b")
 		)
@@ -12070,7 +12259,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Z"
 			(at 67.31 367.03 0)
 			(effects
 				(font
@@ -12097,6 +12286,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 67.31 364.49 0)
 			(effects
 				(font
@@ -12138,7 +12336,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "1!"
 			(at 67.31 306.07 0)
 			(effects
 				(font
@@ -12165,6 +12363,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 67.31 303.53 0)
 			(effects
 				(font
@@ -12206,7 +12413,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "7&"
 			(at 242.57 306.07 0)
 			(effects
 				(font
@@ -12233,6 +12440,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 242.57 303.53 0)
 			(effects
 				(font
@@ -12274,7 +12490,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" ";:"
 			(at 330.2 346.71 0)
 			(effects
 				(font
@@ -12301,6 +12517,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 330.2 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 330.2 344.17 0)
 			(effects
 				(font
@@ -12397,6 +12622,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 377.19 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e7665a50-d48f-4087-b1de-c945ac52fa0f")
 		)
@@ -12485,6 +12719,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 172.72 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7215f8d-eeb2-495f-8268-7efade8ea82f")
 		)
@@ -12518,7 +12761,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "5%"
 			(at 184.15 306.07 0)
 			(effects
 				(font
@@ -12545,6 +12788,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 184.15 303.53 0)
 			(effects
 				(font
@@ -12641,6 +12893,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 231.14 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b930142f-7447-4f7c-90d4-010700be4c92")
 		)
@@ -12674,7 +12935,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Caps"
 			(at 38.1 346.71 0)
 			(effects
 				(font
@@ -12701,6 +12962,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 38.1 344.17 0)
 			(effects
 				(font
@@ -12797,6 +13067,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 26.67 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "53b46a5c-dcc2-43a0-91b1-9b5e663f6293")
 		)
@@ -12885,6 +13164,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 435.61 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5255736d-08a6-4807-9680-cbf3f41fd2c6")
 		)
@@ -12946,6 +13234,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 168.91 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 168.91 254 0)
 			(effects
 				(font
@@ -13042,6 +13339,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 85.09 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6965a04b-0036-4fda-8e34-ba3307a97253")
 		)
@@ -13075,7 +13381,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "'\""
 			(at 359.41 346.71 0)
 			(effects
 				(font
@@ -13102,6 +13408,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 359.41 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 359.41 344.17 0)
 			(effects
 				(font
@@ -13190,6 +13505,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 347.98 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 347.98 370.84 0)
 			(effects
 				(font
@@ -13352,6 +13676,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 318.77 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94a827fe-7d9c-47dd-b2e0-0e95149b9a1c")
 		)
@@ -13414,6 +13747,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 59.69 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 59.69 261.62 0)
 			(effects
 				(font
@@ -13510,6 +13852,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 289.56 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "301f6c70-1bdb-4036-8494-804a911a215c")
 		)
@@ -13543,7 +13894,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "[{"
 			(at 359.41 326.39 0)
 			(effects
 				(font
@@ -13570,6 +13921,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 359.41 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 359.41 323.85 0)
 			(effects
 				(font
@@ -13743,7 +14103,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "9("
 			(at 300.99 306.07 0)
 			(effects
 				(font
@@ -13770,6 +14130,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 300.99 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 300.99 303.53 0)
 			(effects
 				(font
@@ -13866,6 +14235,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 114.3 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f322b4b-4f5c-43b9-9f63-6a1ae8fd7f2d")
 		)
@@ -13945,6 +14323,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 377.19 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 377.19 391.16 0)
 			(effects
 				(font
@@ -14041,6 +14428,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 289.56 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0cc9784-e37d-4fd3-be77-e9eced1e2f56")
 		)
@@ -14129,6 +14525,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 85.09 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "208854a5-42f0-4bdc-81f2-096758d4078f")
 		)
@@ -14162,7 +14567,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "T"
 			(at 184.15 326.39 0)
 			(effects
 				(font
@@ -14189,6 +14594,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 184.15 323.85 0)
 			(effects
 				(font
@@ -14296,7 +14710,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Enter"
 			(at 388.62 346.71 0)
 			(effects
 				(font
@@ -14323,6 +14737,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 388.62 344.17 0)
 			(effects
 				(font
@@ -14419,6 +14842,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 231.14 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc961be6-b1fe-48d6-8243-7f90a05fd6a8")
 		)
@@ -14452,7 +14884,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "J"
 			(at 242.57 346.71 0)
 			(effects
 				(font
@@ -14479,6 +14911,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 242.57 344.17 0)
 			(effects
 				(font
@@ -14520,7 +14961,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "O"
 			(at 300.99 326.39 0)
 			(effects
 				(font
@@ -14547,6 +14988,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 300.99 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 300.99 323.85 0)
 			(effects
 				(font
@@ -14643,6 +15093,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 172.72 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "865f11c1-cc69-434b-a84b-d39b5577c12d")
 		)
@@ -14731,6 +15190,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 436.88 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5db0c0f6-8872-4b29-a48e-d7c7956e9e31")
 		)
@@ -14764,7 +15232,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "6^"
 			(at 213.36 306.07 0)
 			(effects
 				(font
@@ -14791,6 +15259,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 213.36 303.53 0)
 			(effects
 				(font
@@ -14887,6 +15364,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 114.3 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90d60508-e888-4267-96e2-27f28daa920b")
 		)
@@ -14967,6 +15453,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 231.14 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 231.14 330.2 0)
 			(effects
 				(font
@@ -15128,6 +15623,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 26.67 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca637e6b-34dd-410d-ab58-16a07ba46cc5")
 		)
@@ -15161,7 +15665,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "]}"
 			(at 388.62 326.39 0)
 			(effects
 				(font
@@ -15188,6 +15692,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 388.62 323.85 0)
 			(effects
 				(font
@@ -15229,7 +15742,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "F"
 			(at 154.94 346.71 0)
 			(effects
 				(font
@@ -15256,6 +15769,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 154.94 344.17 0)
 			(effects
 				(font
@@ -15352,6 +15874,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 143.51 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b84637c5-9a39-4502-ba02-e5b719594d27")
 		)
@@ -15385,7 +15916,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Q"
 			(at 67.31 326.39 0)
 			(effects
 				(font
@@ -15412,6 +15943,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 67.31 323.85 0)
 			(effects
 				(font
@@ -15508,6 +16048,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 377.19 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea40e72c-ddec-4820-8602-26751d46349f")
 		)
@@ -15577,6 +16126,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 29.21 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "982dced3-5499-4036-8be1-63ea2c237d7f")
 		)
@@ -15610,7 +16168,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "3#"
 			(at 125.73 306.07 0)
 			(effects
 				(font
@@ -15637,6 +16195,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 125.73 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 125.73 303.53 0)
 			(effects
 				(font
@@ -15712,6 +16279,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 36.83 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "676a0263-e3e0-4ea1-8f0a-53abae62c074")
 		)
@@ -15745,7 +16321,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "+="
 			(at 388.62 306.07 0)
 			(effects
 				(font
@@ -15772,6 +16348,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 388.62 303.53 0)
 			(effects
 				(font
@@ -15848,6 +16433,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 43.18 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2513e2b3-ccc4-4ab9-88ef-1de1a49dc174")
 		)
@@ -15881,7 +16475,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Up"
 			(at 388.62 367.03 0)
 			(effects
 				(font
@@ -15908,6 +16502,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 388.62 364.49 0)
 			(effects
 				(font
@@ -15949,7 +16552,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Down"
 			(at 388.62 387.35 0)
 			(effects
 				(font
@@ -15976,6 +16579,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 388.62 384.81 0)
 			(effects
 				(font
@@ -16072,6 +16684,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 172.72 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "011d058a-c274-489d-a4f1-4714182ee92f")
 		)
@@ -16105,7 +16726,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "P"
 			(at 330.2 326.39 0)
 			(effects
 				(font
@@ -16132,6 +16753,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 330.2 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 330.2 323.85 0)
 			(effects
 				(font
@@ -16228,6 +16858,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 377.19 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a7a7c6f-0f8f-483c-9fa2-2bd3c08fe06a")
 		)
@@ -16261,7 +16900,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "RShift"
 			(at 359.41 367.03 0)
 			(effects
 				(font
@@ -16288,6 +16927,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 359.41 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 359.41 364.49 0)
 			(effects
 				(font
@@ -16329,7 +16977,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Left"
 			(at 359.41 387.35 0)
 			(effects
 				(font
@@ -16356,6 +17004,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 359.41 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 359.41 384.81 0)
 			(effects
 				(font
@@ -16452,6 +17109,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 260.35 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eec72fda-0701-441e-bfef-d8520bfea75b")
 		)
@@ -16532,6 +17198,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 55.88 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 55.88 330.2 0)
 			(effects
 				(font
@@ -16628,6 +17303,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 231.14 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc665806-9903-4bab-9666-ff02e112902f")
 		)
@@ -16716,6 +17400,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 85.09 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd7d5e83-5704-4cfb-838c-f926518637bb")
 		)
@@ -16779,6 +17472,15 @@
 			)
 		)
 		(property "Description" "16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"
+			(at 233.68 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 233.68 231.14 0)
 			(effects
 				(font
@@ -16946,7 +17648,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "RCtrl"
 			(at 330.2 387.35 0)
 			(effects
 				(font
@@ -16973,6 +17675,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 330.2 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 330.2 384.81 0)
 			(effects
 				(font
@@ -17014,7 +17725,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "LShift"
 			(at 38.1 367.03 0)
 			(effects
 				(font
@@ -17041,6 +17752,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 38.1 364.49 0)
 			(effects
 				(font
@@ -17148,7 +17868,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "V"
 			(at 154.94 367.03 0)
 			(effects
 				(font
@@ -17175,6 +17895,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 154.94 364.49 0)
 			(effects
 				(font
@@ -17271,6 +18000,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 85.09 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6b68d830-1947-42fe-b9ed-c0294088ee87")
 		)
@@ -17341,6 +18079,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 55.88 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e96c513f-871d-4c93-a4c4-cc9f0ab3beae")
 		)
@@ -17374,7 +18121,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "E"
 			(at 125.73 326.39 0)
 			(effects
 				(font
@@ -17401,6 +18148,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 125.73 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 125.73 323.85 0)
 			(effects
 				(font
@@ -17471,6 +18227,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 69.85 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 69.85 261.62 0)
 			(effects
 				(font
@@ -17567,6 +18332,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 289.56 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3a9709e-79ef-45fc-b8cc-1c2f6f5b0bed")
 		)
@@ -17647,6 +18421,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 85.09 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 85.09 309.88 0)
 			(effects
 				(font
@@ -17743,6 +18526,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 318.77 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22f50b41-0087-4c60-b198-0297fabd1aa1")
 		)
@@ -17776,7 +18568,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "D"
 			(at 125.73 346.71 0)
 			(effects
 				(font
@@ -17803,6 +18595,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 125.73 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 125.73 344.17 0)
 			(effects
 				(font
@@ -17844,7 +18645,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "LAlt"
 			(at 96.52 387.35 0)
 			(effects
 				(font
@@ -17871,6 +18672,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 96.52 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 96.52 384.81 0)
 			(effects
 				(font
@@ -17912,7 +18722,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "2@"
 			(at 96.52 306.07 0)
 			(effects
 				(font
@@ -17939,6 +18749,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 96.52 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 96.52 303.53 0)
 			(effects
 				(font
@@ -17980,7 +18799,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Tab"
 			(at 38.1 326.39 0)
 			(effects
 				(font
@@ -18007,6 +18826,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 38.1 323.85 0)
 			(effects
 				(font
@@ -18048,7 +18876,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" ".>"
 			(at 300.99 367.03 0)
 			(effects
 				(font
@@ -18075,6 +18903,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 300.99 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 300.99 364.49 0)
 			(effects
 				(font
@@ -18182,7 +19019,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "L"
 			(at 300.99 346.71 0)
 			(effects
 				(font
@@ -18209,6 +19046,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 300.99 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 300.99 344.17 0)
 			(effects
 				(font
@@ -18250,7 +19096,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "I"
 			(at 271.78 326.39 0)
 			(effects
 				(font
@@ -18277,6 +19123,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 271.78 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 271.78 323.85 0)
 			(effects
 				(font
@@ -18318,7 +19173,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "S"
 			(at 96.52 346.71 0)
 			(effects
 				(font
@@ -18345,6 +19200,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 96.52 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 96.52 344.17 0)
 			(effects
 				(font
@@ -18441,6 +19305,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 289.56 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4fd00ce3-c1ff-4065-81b1-bbaaf9094120")
 		)
@@ -18474,7 +19347,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "K"
 			(at 271.78 346.71 0)
 			(effects
 				(font
@@ -18501,6 +19374,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 271.78 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 271.78 344.17 0)
 			(effects
 				(font
@@ -18597,6 +19479,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 201.93 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "522bc119-8c87-4d4d-888f-b17c5437393e")
 		)
@@ -18630,7 +19521,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "B"
 			(at 184.15 367.03 0)
 			(effects
 				(font
@@ -18657,6 +19548,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 184.15 364.49 0)
 			(effects
 				(font
@@ -18753,6 +19653,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 260.35 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6a93fcc5-ef09-499d-874f-fddb041c7e6c")
 		)
@@ -18786,7 +19695,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "0)"
 			(at 330.2 306.07 0)
 			(effects
 				(font
@@ -18813,6 +19722,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 330.2 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 330.2 303.53 0)
 			(effects
 				(font
@@ -18908,6 +19826,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 172.72 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ffcf8e1-5f68-41df-9704-19cd937478f7")
 		)
@@ -18970,6 +19897,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 213.36 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 213.36 232.41 0)
 			(effects
 				(font
@@ -19047,6 +19983,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 173.99 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c4863040-00d2-4ef1-9761-6fb42c10b86a")
 		)
@@ -19080,7 +20025,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Fn"
 			(at 300.99 387.35 0)
 			(effects
 				(font
@@ -19107,6 +20052,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 300.99 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 300.99 384.81 0)
 			(effects
 				(font
@@ -19203,6 +20157,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 201.93 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06430c84-c873-46af-ab3e-fb6536b92b8d")
 		)
@@ -19283,6 +20246,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 347.98 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 347.98 350.52 0)
 			(effects
 				(font
@@ -19379,6 +20351,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 347.98 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e78a9a42-545f-430e-b8a9-26a3fa34b059")
 		)
@@ -19459,6 +20440,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 114.3 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 114.3 330.2 0)
 			(effects
 				(font
@@ -19621,6 +20611,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 201.93 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52805aa0-6a2f-4ba7-ad74-fec16a25dd49")
 		)
@@ -19654,7 +20653,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "H"
 			(at 213.36 346.71 0)
 			(effects
 				(font
@@ -19681,6 +20680,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 213.36 344.17 0)
 			(effects
 				(font
@@ -19769,6 +20777,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 406.4 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 406.4 330.2 0)
 			(effects
 				(font
@@ -19913,6 +20930,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 260.35 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6ac84ba8-2253-482f-afd8-3288ec89fe5b")
 		)
@@ -19946,7 +20972,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "R"
 			(at 154.94 326.39 0)
 			(effects
 				(font
@@ -19973,6 +20999,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 154.94 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 154.94 323.85 0)
 			(effects
 				(font
@@ -20069,6 +21104,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 318.77 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea3f8880-ffb2-44eb-b21e-0a3b74469d3f")
 		)
@@ -20102,7 +21146,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Home"
 			(at 447.04 326.39 0)
 			(effects
 				(font
@@ -20129,6 +21173,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 447.04 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 447.04 323.85 0)
 			(effects
 				(font
@@ -20196,6 +21249,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 207.01 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 207.01 218.44 0)
 			(effects
 				(font
@@ -20292,6 +21354,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 55.88 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea384d50-5baf-4ca9-8acb-5a581b1202d4")
 		)
@@ -20380,6 +21451,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 26.67 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26fbe671-6916-4a7c-9569-3a0ca3c71f02")
 		)
@@ -20413,7 +21493,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Right"
 			(at 447.04 387.35 0)
 			(effects
 				(font
@@ -20440,6 +21520,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 447.04 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 447.04 384.81 0)
 			(effects
 				(font
@@ -20536,6 +21625,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 55.88 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "13f1611a-7741-44b6-85a3-b9df005d9ce0")
 		)
@@ -20569,7 +21667,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Delete"
 			(at 447.04 306.07 0)
 			(effects
 				(font
@@ -20596,6 +21694,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 447.04 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 447.04 303.53 0)
 			(effects
 				(font
@@ -20637,7 +21744,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "C"
 			(at 125.73 367.03 0)
 			(effects
 				(font
@@ -20664,6 +21771,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 125.73 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 125.73 364.49 0)
 			(effects
 				(font
@@ -20826,6 +21942,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 114.3 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6a7a34a-b507-48c9-b020-7894578092f0")
 		)
@@ -20914,6 +22039,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 143.51 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1abfa256-7794-47c7-a798-d0239622b580")
 		)
@@ -20947,7 +22081,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "\\|"
 			(at 417.83 326.39 0)
 			(effects
 				(font
@@ -20974,6 +22108,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 417.83 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 417.83 323.85 0)
 			(effects
 				(font
@@ -21070,6 +22213,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 347.98 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07bfe746-77de-4f64-bbc4-70b71dea3a35")
 		)
@@ -21158,6 +22310,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 143.51 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "449737a8-fa84-4bf4-8fd7-a0f3d1a00c7d")
 		)
@@ -21191,7 +22352,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "LCtrl"
 			(at 38.1 387.35 0)
 			(effects
 				(font
@@ -21218,6 +22379,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 384.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 38.1 384.81 0)
 			(effects
 				(font
@@ -21259,7 +22429,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "ESC"
 			(at 38.1 306.07 0)
 			(effects
 				(font
@@ -21286,6 +22456,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 38.1 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 38.1 303.53 0)
 			(effects
 				(font
@@ -21429,6 +22608,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 38.1 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6460affb-ef15-4c83-840e-4e57e0e8a37e")
 		)
@@ -21462,7 +22650,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "U"
 			(at 242.57 326.39 0)
 			(effects
 				(font
@@ -21489,6 +22677,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 242.57 323.85 0)
 			(effects
 				(font
@@ -21585,6 +22782,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 377.19 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca78a08d-b2aa-44b8-a6e0-994de24c76aa")
 		)
@@ -21673,6 +22879,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 260.35 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "60e654eb-f9d6-4a78-99ee-1c418df4ef57")
 		)
@@ -21706,7 +22921,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" ",<"
 			(at 271.78 367.03 0)
 			(effects
 				(font
@@ -21733,6 +22948,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 271.78 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 271.78 364.49 0)
 			(effects
 				(font
@@ -21774,7 +22998,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "X"
 			(at 96.52 367.03 0)
 			(effects
 				(font
@@ -21801,6 +23025,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 96.52 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 96.52 364.49 0)
 			(effects
 				(font
@@ -21897,6 +23130,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 318.77 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b09ef77-7283-45c5-8b76-631c656f52eb")
 		)
@@ -21930,7 +23172,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "G"
 			(at 184.15 346.71 0)
 			(effects
 				(font
@@ -21957,6 +23199,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 184.15 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 184.15 344.17 0)
 			(effects
 				(font
@@ -21998,7 +23249,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Y"
 			(at 213.36 326.39 0)
 			(effects
 				(font
@@ -22025,6 +23276,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 213.36 323.85 0)
 			(effects
 				(font
@@ -22093,6 +23353,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 36.83 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 36.83 208.28 0)
 			(effects
 				(font
@@ -22189,6 +23458,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 172.72 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "332e5747-412f-49a3-b0b3-4018fa4cc78e")
 		)
@@ -22256,6 +23534,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 53.34 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "78dc23f0-20c8-4b69-9f4a-49b92b1a5b6b")
 		)
@@ -22295,7 +23582,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "N"
 			(at 213.36 367.03 0)
 			(effects
 				(font
@@ -22322,6 +23609,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 364.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 213.36 364.49 0)
 			(effects
 				(font
@@ -22390,6 +23686,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 115.57 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 115.57 255.27 0)
 			(effects
 				(font
@@ -22470,7 +23775,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "8*"
 			(at 271.78 306.07 0)
 			(effects
 				(font
@@ -22497,6 +23802,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 271.78 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 271.78 303.53 0)
 			(effects
 				(font
@@ -22593,6 +23907,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 55.88 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "517a655a-f60e-4ab3-b16c-55c178149500")
 		)
@@ -22626,7 +23949,7 @@
 				)
 			)
 		)
-		(property "Value" "KEYSW"
+		(property "Value" "Backspace"
 			(at 417.83 306.07 0)
 			(effects
 				(font
@@ -22653,6 +23976,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 417.83 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 417.83 303.53 0)
 			(effects
 				(font
@@ -22749,6 +24081,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 55.88 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9483352e-1a96-4a9a-b3fc-5993c3cfc826")
 		)
@@ -22837,6 +24178,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 318.77 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51850cbf-072f-451c-8461-b4e0f2d14b68")
 		)
@@ -22899,6 +24249,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 49.53 261.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 49.53 261.62 0)
 			(effects
 				(font
@@ -22987,6 +24346,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 143.51 309.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
 			(at 143.51 309.88 0)
 			(effects
 				(font
