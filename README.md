@@ -1,6 +1,6 @@
 # Keyboard
 
-Leopold fC660m
+Leopold fC660m schematic and PCB layout contained in 65 - can import whole folder as project in Kicad.
 
 <img width="2000" height="1087" alt="image" src="https://github.com/user-attachments/assets/f458d6b6-d4e9-4dd2-b181-970cb8f557e8" />
 
