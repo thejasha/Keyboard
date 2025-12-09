@@ -7,6 +7,8 @@ Leopold fC660m schematic and PCB layout which are contained in 65 folder - can i
 
 ![Boardfront](https://github.com/user-attachments/assets/22a7c4fa-cc79-4188-8c86-ad8c6db5a32c)
 
+<img width="1908" height="638" alt="image" src="https://github.com/user-attachments/assets/6edb9526-33db-489a-9e4b-fa53f586db9a" />
+
 
 ## Firmware
 Download QMK MSYS, compile aacustomboard, and then flash it on MCU (Follow documenation on QMK site). aacustomboard files will only work the exact pinout from 65 files.
